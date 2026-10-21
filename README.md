@@ -61,4 +61,17 @@ Code: MIT (`LICENSE`). Probe batteries and result files: CC BY 4.0 (`LICENSE-DAT
 
 ## Citation
 
-Kaplan, J. 2026. A Calibrated Instrument for Detecting Disposition Drift in Language Models.
+Kaplan, J. 2026. A Calibrated Instrument for Detecting Disposition Drift in Language Models. arXiv:2610.25735. https://arxiv.org/abs/2610.25735
+
+```bibtex
+@misc{kaplan2026drift,
+  title         = {A Calibrated Instrument for Detecting Disposition Drift in Language Models},
+  author        = {Kaplan, Jerry},
+  year          = {2026},
+  eprint        = {2610.25735},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  doi           = {10.48550/arXiv.2610.25735},
+  url           = {https://arxiv.org/abs/2610.25735}
+}
+```
